@@ -1,3 +1,4 @@
+
 # 🎧 Podkes - Flutter Podcast UI App
 
 This is a Flutter application that replicates the **Podkes** podcast app UI, inspired by the provided Figma design.
@@ -82,8 +83,6 @@ shimmer
 
 👩🏻 Author
   Ameerah Aloufi.
-
-
 
 
 
