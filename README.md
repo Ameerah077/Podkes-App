@@ -1,4 +1,3 @@
-
 # 🎧 Podkes - Flutter Podcast UI App
 
 This is a Flutter application that replicates the **Podkes** podcast app UI, inspired by the provided Figma design.
@@ -43,53 +42,36 @@ AlertDialog on logout
 🚀 Getting Started
 
 1- Clone the repo:
-git clone https://github.com/yourusername/podkesapp.git
+git clone https://github.com/Ameerah077/Podkes-App.git
 cd podkesapp
-2- Get dependencies:
+2- Install dependencies:
 flutter pub get
-Run the app:
+3- Run the app:
 flutter run
 
-3- 🧩 Dependencies
+
+🧩 Dependencies
 shimmer
 
-4- ## 📸 Screenshots
 
-### Getting Started (Onboarding)
-<p float="left">
-  <img src="assets/screenshots/get_start1.png" width="250"/>
-  <img src="assets/screenshots/get_start2.png" width="250"/>
-  <img src="assets/screenshots/get_start3.png" width="250"/>
-</p>
+📸 Screenshots
 
-### Home
-<img src="assets/screenshots/home.png" width="300"/>
-
-### Navigation Menu (Drawer)
-<img src="assets/screenshots/menu.png" width="300"/>
-
-### Now Playing
-<img src="assets/screenshots/now_playing.png" width="300"/>
-
-### Library
-<img src="assets/screenshots/liberary.png" width="300"/>
-
-### Profile
-<img src="assets/screenshots/profile.png" width="300"/>
-
-### Dialog (Logout Confirmation)
-<img src="assets/screenshots/dialog.png" width="300"/>
+Getting Started (Onboarding)
+<p float="left"> <img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/get_start1.png" width="250"/> <img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/get_start2.png" width="250"/> <img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/get_start3.png" width="250"/> </p>
+Home
+<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/home.png" width="300"/>
+Navigation Menu (Drawer)
+<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/menu.png" width="300"/>
+Now Playing
+<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/now_playing.png" width="300"/>
+Library
+<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/liberary.png" width="300"/>
+Profile
+<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/profile.png" width="300"/>
+Dialog (Logout Confirmation)
+<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/dialog.png" width="300"/>
 
 
 👩🏻 Author
-  Ameerah Aloufi.
-
-
-
-
-
-
-
-
-
+Ameerah Aloufi
 
