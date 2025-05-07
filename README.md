@@ -54,22 +54,30 @@ flutter run
 shimmer
 
 
-📸 Screenshots
+## 📸 Screenshots
 
-Getting Started (Onboarding)
-<p float="left"> <img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/get_start1.png" width="250"/> <img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/get_start2.png" width="250"/> <img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/get_start3.png" width="250"/> </p>
-Home
-<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/home.png" width="300"/>
-Navigation Menu (Drawer)
-<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/menu.png" width="300"/>
-Now Playing
-<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/now_playing.png" width="300"/>
-Library
-<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/liberary.png" width="300"/>
-Profile
-<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/profile.png" width="300"/>
-Dialog (Logout Confirmation)
-<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/dialog.png" width="300"/>
+### Getting Started (Onboarding)
+![Get Start 1](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/get_start1.png)
+![Get Start 2](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/get_start2.png)
+![Get Start 3](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/get_start3.png)
+
+### Home
+![Home](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/home.png)
+
+### Navigation Menu (Drawer)
+![Menu](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/menu.png)
+
+### Now Playing
+![Now Playing](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/now_playing.png)
+
+### Library
+![Library](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/liberary.png)
+
+### Profile
+![Profile](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/profile.png)
+
+### Dialog (Logout Confirmation)
+![Dialog](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/dialog.png)
 
 
 👩🏻 Author
