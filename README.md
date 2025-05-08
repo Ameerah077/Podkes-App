@@ -38,6 +38,7 @@ Custom podcast cards and shimmer effect
 Drawer in Discover & Library
 AlertDialog on logout
 
+<img width="353" alt="image" src="https://github.com/user-attachments/assets/bb786d13-8f08-4a19-89f1-3105d38ce2c5" />
 
 🚀 Getting Started
 
