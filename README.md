@@ -38,7 +38,6 @@ Custom podcast cards and shimmer effect
 Drawer in Discover & Library
 AlertDialog on logout
 
-<img width="353" alt="image" src="https://github.com/user-attachments/assets/bb786d13-8f08-4a19-89f1-3105d38ce2c5" />
 
 🚀 Getting Started
 
@@ -57,28 +56,31 @@ shimmer
 
 ## 📸 Screenshots
 
+
 ### Getting Started (Onboarding)
-![Get Start 1](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/get_start1.png)
-![Get Start 2](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/get_start2.png)
-![Get Start 3](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/get_start3.png)
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/get_start1.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/get_start2.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/get_start3.png" width="250"/>
+</p>
 
 ### Home
-![Home](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/home.png)
+<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/home.png" width="300"/>
 
 ### Navigation Menu (Drawer)
-![Menu](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/menu.png)
+<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/menu.png" width="300"/>
 
 ### Now Playing
-![Now Playing](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/now_playing.png)
+<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/now_playing.png" width="300"/>
 
 ### Library
-![Library](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/liberary.png)
+<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/liberary.png" width="300"/>
 
 ### Profile
-![Profile](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/profile.png)
+<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/profile.png" width="300"/>
 
 ### Dialog (Logout Confirmation)
-![Dialog](https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/dialog.png)
+<img src="https://raw.githubusercontent.com/Ameerah077/Podkes-App/main/assets/screenshots/dialog.png" width="300"/>
 
 
 👩🏻 Author
